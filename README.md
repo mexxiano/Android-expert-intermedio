@@ -1,5 +1,27 @@
 # ANDROID MASTER INTERMEDIO
 
+## <!-- TOC -->
+* [ANDROID MASTER INTERMEDIO](#android-master-intermedio)
+* [Commits](#commits)
+  * [](#)
+* [mexxiano](#mexxiano)
+  * [Maxi](#maxi)
+    * [Mex](#mex)
+  * [#### MAx](#-max)
+* [##Preguntas](#preguntas)
+* [##Super](#super)
+* [Foobar](#foobar)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * 
+<!-- TOC -->
+
+# Commits
+
+* 2023-12-15: Luck View Completed
+* 2023-12-16: PalmTree Completed
 <p align="center">
 
 En esta sección del curso, nos enfocaremos en enseñarte cómo escribir código de calidad para  que puedas comenzar a programar aplicaciones Android.
