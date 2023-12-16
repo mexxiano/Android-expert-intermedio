@@ -21,7 +21,8 @@
 # Commits
 
 * 2023-12-15: Luck View Completed
-* 2023-12-16: PalmTree Completed
+* 2023-12-16: Animations Completed
+* 2023-12-19: Palmistry Completed
 <p align="center">
 
 En esta sección del curso, nos enfocaremos en enseñarte cómo escribir código de calidad para  que puedas comenzar a programar aplicaciones Android.
